@@ -34,6 +34,7 @@ Crie uma "[issue](https://github.com/gdgfoz/mini-curso-intro-python/issues)" aqu
 
 ## Links importantes
 
+- Download [material do curso](/materiais.md) 
 - Telegran [grupo de estudo do curso](https://t.me/gdgfoz_python/52)
 - WhatsApp da comunidade [GDG Foz](https://chat.whatsapp.com/GiEaMe3mSlG2I7UqTMEKq7) 
 - Link evento + inscrição [GDG Community](https://t.co/HE3WDAfG4f?amp=1)
