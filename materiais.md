@@ -2,7 +2,9 @@
 
 Nessa página você irá encontrar todos os links e arquivos utilizados no curso.
 
+## Material de Raspagem:
 
+- [Aulas de raspagem com o Rodolfo Viana](https://github.com/rodolfo-viana/eventos/tree/main/gdgfoz_20210327)
 
 ## Ambiente de desenvolvimento
 
