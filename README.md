@@ -4,7 +4,6 @@
 >
 > Assine esse repositório para receber notificações.
 
-
 ## Sobre o evento  
 
 Neste minicurso você vai aprender os conceitos básicos de programação em Python.   
@@ -23,6 +22,12 @@ Participantes, palestrantes, representantes de empresas e pessoas voluntárias d
 
 Leia nosso [código de conduta aqui.](/codigo-de-conduta.md)
 
+## Material
+
+Todo o material estará aqui ou com __links__ para outros repositórios. Material será dinamico e em constante atualização:
+
+- [Acessar o material do curso](/materiais.md) .
+
 ## Suporte
 
 Está com alguma dúvida sobre o curso?  
@@ -34,7 +39,6 @@ Crie uma "[issue](https://github.com/gdgfoz/mini-curso-intro-python/issues)" aqu
 
 ## Links importantes
 
-- Download [material do curso](/materiais.md) 
 - Telegran [grupo de estudo do curso](https://t.me/gdgfoz_python/52)
 - WhatsApp da comunidade [GDG Foz](https://chat.whatsapp.com/GiEaMe3mSlG2I7UqTMEKq7) 
 - Link evento + inscrição [GDG Community](https://t.co/HE3WDAfG4f?amp=1)
